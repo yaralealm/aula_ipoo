@@ -1,0 +1,18 @@
+package edu.ifsp.poo;
+
+import java.util.Scanner;
+
+public class Main {
+	int dol; 
+	int cen; 
+	
+	Scanner input = new Scanner(System.in);
+	System.out.print("Insira quantia de dólares: "); 
+	dol = input.nextInt(); 
+	
+	Scanner input2 = new Scanner(System.in);
+	System.out.print("Insira quantia de dólares: "); 
+	cen = input.nextInt(); 
+	
+
+}

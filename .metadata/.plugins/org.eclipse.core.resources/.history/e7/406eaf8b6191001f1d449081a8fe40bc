@@ -1,0 +1,8 @@
+package edu.ifsp.poo;
+
+public class Triangulo {
+
+	public static void main(String[] args) {
+		
+	}
+}
